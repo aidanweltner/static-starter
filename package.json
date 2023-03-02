@@ -1,0 +1,30 @@
+{
+  "name": "static-starter",
+  "version": "1.0.0",
+  "description": "Simple Static HTML Site Example with TailwindCSS and AlpineJS. Ready for SEO Optimization and a Netlify Deployment",
+  "main": "index.html",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/main.css -o ./dist/main.css --watch",
+    "build": "tailwindcss -i ./src/main.css -o ./dist/main.css --minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidanweltner/static-starter.git"
+  },
+  "keywords": [
+    "html",
+    "tailwindcss"
+  ],
+  "author": "Aidan Weltner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidanweltner/static-starter/issues"
+  },
+  "homepage": "https://github.com/aidanweltner/static-starter#readme",
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/typography": "^0.5.9",
+    "tailwindcss": "^3.2.7"
+  }
+}
