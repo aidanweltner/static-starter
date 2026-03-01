@@ -1,9 +1,8 @@
 # Static HTML Starter with TailwindCSS and AlpineJS
 This is a totally blank-late starter template for a single page HTML site. It uses the following: 
-- TailwindCSS v3.4.0
-  - TailwindCSS Aspect Ratio v0.4.2
-  - TailwindCSS Forms v0.5.7
-  - TailwindCSS Typography v0.5.10
+- TailwindCSS v4.2.1
+  - TailwindCSS Forms v0.5.11
+  - TailwindCSS Typography v0.5.19
 - AlpineJS v3.13.3 (added via script tag)
   - AlpineJS Focus Plugin
 
