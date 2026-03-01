@@ -4,8 +4,8 @@
   "description": "Simple Static HTML Site Example with TailwindCSS and AlpineJS. Ready for SEO Optimization and a Netlify Deployment",
   "main": "index.html",
   "scripts": {
-    "dev": "tailwindcss -i ./src/main.css -o ./dist/main.css --watch",
-    "build": "tailwindcss -i ./src/main.css -o ./dist/main.css --minify"
+    "dev": "npx @tailwindcss/cli -i ./src/main.css -o ./dist/main.css --watch",
+    "build": "npx @tailwindcss/cli -i ./src/main.css -o ./dist/main.css --minify"
   },
   "repository": {
     "type": "git",
