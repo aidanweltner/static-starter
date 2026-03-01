@@ -3,7 +3,7 @@ This is a totally blank-late starter template for a single page HTML site. It us
 - TailwindCSS v4.2.1
   - TailwindCSS Forms v0.5.11
   - TailwindCSS Typography v0.5.19
-- AlpineJS v3.13.3 (added via script tag)
+- AlpineJS v3.15.8 (added via script tag)
   - AlpineJS Focus Plugin
 
 # Developing with this Starter
